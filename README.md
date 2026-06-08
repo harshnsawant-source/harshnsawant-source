@@ -6,7 +6,7 @@ I build AI systems that ship: LLM agents, RAG, and local-first AI products.
 
 🔹 **[OIL — Private Document RAG](https://github.com/harshnsawant-source/OIL)** — local, private document Q&A with **grounded, file/page-cited answers** that *refuse* when the answer isn't in the source (no hallucinated citations). **14/14** on a citation-accuracy + refusal eval.
 
-🔹 **AVIORA** — the AI studio where I build the product/web layer (Next.js · React Three Fiber · Framer Motion).
+🔹 **[AVIORA](https://aviora-site.vercel.app)** — my AI studio. I build the product/web layer here (Next.js · React Three Fiber · Framer Motion) → **[live site ↗](https://aviora-site.vercel.app)**
 
 **Stack:** Python · TypeScript · LLMs · RAG · Vector Search · Multi-Agent Systems · Next.js / React · Three.js / R3F · Flask
 
